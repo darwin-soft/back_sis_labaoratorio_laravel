@@ -1,0 +1,32 @@
+1. descargar GIT de la pagina:
+        https://git-scm.com/
+2. Instalar y configurar
+  > git config --global user.name "Su Nombre"
+  > git config --global user.email "sucorreo@mail.com"
+------------------------------------------
+Si ya existe el proyecto
+  CLONAR
+  > git clone direccion_del_repositorio
+Si es un nuevo proyecto
+  INIT
+  > git init
+----------------------
+Crear un cuenta en (github) o gitlab o bitbucket
+Crear un nuevo repositorio
+Relacionar el repositorio local con el repositorio remoto (github):
+ > git remote add origin  git remote add origin https://github.com/darwin-soft/back_sis_labaoratorio_laravel.git
+
+***************************
+git add .
+git commit -m "Proyecto inicial + migraciones"
+git push origin master
+
+
+-----------------
+git pull origin master
+
+   
+
+
+
+    https://github.com/cchura94/back_sis_laboratorio_laravel

@@ -13,8 +13,10 @@ class CreateTipoExamensTable extends Migration
      */
     public function up()
     {
-        Schema::create('tipo_examens', function (Blueprint $table) {
+        Schema::create('tipoexamens', function (Blueprint $table) {
             $table->id();
+            $table->string("examen");
+            $table->decimal("precio", 10, 2)->nullable();
             $table->timestamps();
         });
     }

@@ -1,0 +1,48 @@
+
+
+###Listar por paginacion  GET http://127.0.0.1:8000/api/usuario?page=2
+
+###Listar Usuarios 
+GET http://127.0.0.1:8000/api/usuario
+Accept: application/json
+Authorization: Bearer 10|9YgkRUEwsLnbwirut5VfU6C0yIkeK0XNfEHC6BXI
+
+### Guardar nuevo usuario
+
+POST http://127.0.0.1:8000/api/usuario
+Content-Type: application/json
+Accept: application/json
+Authorization: Bearer 10|9YgkRUEwsLnbwirut5VfU6C0yIkeK0XNfEHC6BXI
+
+{
+    "name": "cristian123",
+    "email": "cristian123@mail.com",
+    "password": "cristian123"
+}
+
+###Buscar por correo
+GET http://127.0.0.1:8000/api/usuario?q=admin@gmail.com
+Accept: application/json 
+Authorization: Bearer 10|9YgkRUEwsLnbwirut5VfU6C0yIkeK0XNfEHC6BXI
+
+### buscar por id 
+GET http://127.0.0.1:8000/api/usuario/5 
+Accept: application/json 
+Authorization: Bearer 10|9YgkRUEwsLnbwirut5VfU6C0yIkeK0XNfEHC6BXI
+
+### modificar usuario 
+PUT http://127.0.0.1:8000/api/usuario/5
+Content-Type: application/json 
+Accept: application/json 
+Authorization: Bearer 10|9YgkRUEwsLnbwirut5VfU6C0yIkeK0XNfEHC6BXI
+
+{
+"name": "admin modificar",
+"email": "admin.modificado@modificado.com",
+"password": "admin12345"
+}
+
+### eliminar un usuario 
+DELETE http://127.0.0.1:8000/api/usuario/6 
+Accept: application/json 
+Authorization: Bearer 10|9YgkRUEwsLnbwirut5VfU6C0yIkeK0XNfEHC6BXI

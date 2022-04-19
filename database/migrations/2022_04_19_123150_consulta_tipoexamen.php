@@ -22,7 +22,6 @@ class ConsultaTipoexamen extends Migration
             $table->bigInteger("consulta_id")->unsigned();
             $table->bigInteger("tipoexamen_id")->unsigned();
             $table->foreign("consulta_id")->references("id")->on("consultas");
-
             $table->foreign("tipoexamen_id")->references("id")->on("tipoexamens");
 
             $table->timestamps();

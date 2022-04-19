@@ -1,0 +1,15 @@
+7. Curso Laravel y Angular - Proyecto día 1 - Autenticación Laravel Sanctum
+https://www.youtube.com/watch?v=RbE7VzvkHUs&t=1s
+
+8. Curso Laravel y Angular - Proyecto día 2 - Autenticación Laravel Sanctum y Análisis Base de Datos
+link:  https://www.youtube.com/watch?v=0nbK8EdEeG8
+
+9. Curso Laravel y Angular - Proyecto día 3 - Base de Datos - Migraciones
+link: https://www.youtube.com/watch?v=1DoxpGFjAnw&t=1s
+
+10. Curso Laravel y Angular - Proyecto día 4 - Base de Datos - Migraciones - Git y GitHub
+link:  https://www.youtube.com/watch?v=P4T3l4g36q0&t=24s
+
+
+11. Curso Laravel y Angular - Proyecto día 5 - CRUD Usuarios, Seeders, traducciones, Búsqueda
+link: https://www.youtube.com/watch?v=_V80qB2hSLI&t=3s
