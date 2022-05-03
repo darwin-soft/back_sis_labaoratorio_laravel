@@ -13,3 +13,8 @@ link:  https://www.youtube.com/watch?v=P4T3l4g36q0&t=24s
 
 11. Curso Laravel y Angular - Proyecto día 5 - CRUD Usuarios, Seeders, traducciones, Búsqueda
 link: https://www.youtube.com/watch?v=_V80qB2hSLI&t=3s
+
+
+16. Curso Laravel y Angular - Proyecto día 10 - Api Laravel - Persona Sucursal + Relaciones Models
+
+https://www.youtube.com/watch?v=F6zCowtC1NI&t=1s

@@ -5,7 +5,7 @@
 ###Listar Usuarios 
 GET http://127.0.0.1:8000/api/usuario
 Accept: application/json
-Authorization: Bearer 10|9YgkRUEwsLnbwirut5VfU6C0yIkeK0XNfEHC6BXI
+Authorization: Bearer 28|UHhSUcUz47cHztY5DMUU28W9mwxv7S1QRRr2m21q
 
 ### Guardar nuevo usuario
 

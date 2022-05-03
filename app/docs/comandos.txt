@@ -31,6 +31,8 @@ Para verificar las migraciones
 
 ----------------- CONTROLADORES ---------------------
 php artisan make:controller UsuarioController --api
+php artisan make:controller PersonaController --api
+php artisan make:controller SucursalController --api
 
 CRUD USUARIOS
 
